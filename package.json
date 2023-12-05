@@ -18,7 +18,7 @@
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/shuttlenetwork/shuttle",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^1.0.5",
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.11",
     "@tomphttp/bare-server-node": "^1.2.2",
     "express": "^4.18.1",
     "forever": "^4.0.3"
